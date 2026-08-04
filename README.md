@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [3731-find-missing-elements](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [3731-find-missing-elements](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
