@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0877-stone-game) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
