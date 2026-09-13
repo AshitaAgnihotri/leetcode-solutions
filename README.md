@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0486-predict-the-winner](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Algorithm X
 |  |
