@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3310-remove-methods-from-project](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
