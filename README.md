@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
@@ -374,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
