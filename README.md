@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0877-stone-game) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AshitaAgnihotri/leetcode-solutions/tree/master/0877-stone-game) |
